@@ -2,4 +2,4 @@
 
 By Ella, Intro Coding for Journalists class
 
-This repo is a class assignment to begin learning HTML. It is due January 25, 2025.
+This repo is a class assignment to begin learning HTML and CSS. It is due Febuary 5, 2025.
